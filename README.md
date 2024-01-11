@@ -1,5 +1,13 @@
-To run the project, you need to install node modules.
+## Installation
 
-run the command -
+Use the npm to install node modules
 
+```bash
 npm install
+```
+
+and to run the project
+
+```bash
+node index.js
+```
